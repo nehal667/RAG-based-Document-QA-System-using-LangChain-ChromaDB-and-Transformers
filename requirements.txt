@@ -1,0 +1,7 @@
+langchain
+chromadb
+openai
+tiktoken
+pydantic
+sentence-transformers
+scikit-learn
